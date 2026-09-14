@@ -42,10 +42,10 @@ Estou sempre a aprender coisas novas, explorar diferentes tecnologias e melhorar
   <a href="https://github.com/ysjoken">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="COLOCA_AQUI_O_TEU_INSTAGRAM">
+  <a href="https://instagram.com/yszjoken">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="COLOCA_AQUI_O_TEU_DISCORD">
+  <a href="pixdied">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
@@ -63,15 +63,6 @@ Estou sempre a aprender coisas novas, explorar diferentes tecnologias e melhorar
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjoken&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysjoken&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <b>💻 Code • Learn • Build • Repeat 🚀</b>
