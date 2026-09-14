@@ -45,7 +45,7 @@ Estou sempre a aprender coisas novas, explorar diferentes tecnologias e melhorar
   <a href="https://instagram.com/yszjoken">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="pixdied">
+  <a href="[pixdied](https://discord.com/users/252434747823882241)">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
